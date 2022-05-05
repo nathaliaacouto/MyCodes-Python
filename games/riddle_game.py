@@ -1,5 +1,4 @@
 #when you choose a number, it will print a riddle and you can answer it
-
 questions = {1: "What has to be broken before you can use it?",
     2: "I’m tall when I’m young, and I’m short when I’m old. What am I?",
     3: "What month of the year has 28 days?",
@@ -36,7 +35,7 @@ def rules():
   print("The rules are simple: choose a number and one riddle will be shown, answer it and see if it is correct! For most riddles you will just need to use a word, such as 'dog' or 'fruit'")
 
 while(True):
-  choice = int(input("\nChoose a number from 1-5 to get a riddle (0 to exit, -1 to rules): "))
+  choice = int(input("\nChoose a number from 1-10 to get a riddle (0 to exit, -1 to rules): "))
   if choice == 0:
     print("See you later!")
     break
