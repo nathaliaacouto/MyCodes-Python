@@ -1,3 +1,3 @@
-# MyCodes-Python
+# MyCodes-Python :snake:
 
-Repositório onde vou colocar meus códigos criados na linguagem Python 
+Códigos autorais na linguagem Python
